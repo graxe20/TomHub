@@ -11,7 +11,7 @@ Made With 🍆 ***By: lovegamingandvlogs & 6_8ed***
 
 ### ⭕ Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/graxe20/TomHub/main/Hub%20GUIs/tomhub.lua",true))()
+loadstring(game:HttpGet("https://github.com/graxe20/TomHub/raw/main/Hub%20GUIs/tomhub.lua",true))()
 ```
 
 ### 🔰 Supported Games
